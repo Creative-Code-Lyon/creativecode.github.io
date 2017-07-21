@@ -1,0 +1,26 @@
+baseurl = "https://creativecodelyon.github.io/"
+languageCode = "fr"
+title = "Creative code Lyon"
+theme = "hemingway"
+copyright = "Theme by <a href=\"https://github.com/tanksuzuki\">Asuka Suzuki</a>"
+disqusShortname = "shortname"
+googleAnalytics = ""
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://github.com/creativecodelyon"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://www.facebook.com/creativecodelyon/"
+fa_icon = "fa-facebook"
+
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
