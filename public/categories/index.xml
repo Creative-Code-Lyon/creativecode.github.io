@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Creative code Lyon</title>
+    <link>https://creativecodelyon.github.io/categories/</link>
+    <description>Recent content in Categories on Creative code Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Theme by &lt;a href=&#34;https://github.com/tanksuzuki&#34;&gt;Asuka Suzuki&lt;/a&gt;</copyright>
+    
+	<atom:link href="https://creativecodelyon.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
